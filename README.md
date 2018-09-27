@@ -11,4 +11,4 @@
 傳送貼圖時若是免費貼圖機器人也會回傳相同貼圖，若是付費貼圖則從Line Store上下載圖片回傳
 
 
-有儲存表特版文章架設的小網站:http://jimmy-01.herokuapp.com/
+有儲存表特版文章架設的小網站: http://jimmy-01.herokuapp.com/
