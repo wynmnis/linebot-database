@@ -2,7 +2,7 @@
 
 加入好友
 
-![image](https://github.com/jimmy801/linebot-database/blob/master/Add/QR%20code.jpg)
+![image](https://imgur.com/5zBQIkB)
 
 Introduction
 ---
