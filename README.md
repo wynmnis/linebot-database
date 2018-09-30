@@ -2,7 +2,7 @@
 
 加入好友
 
-![image](https://imgur.com/5zBQIkB)
+<img src="https://imgur.com/5zBQIkB">
 
 Introduction
 ---
