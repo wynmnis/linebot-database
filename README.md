@@ -24,3 +24,9 @@ Require
 
 
 有儲存表特版文章圖片架設的[小網站](http://jimmy-01.herokuapp.com/)
+
+# Flask-LINE-Bot-Heroku
+
+<a href="https://heroku.com/deploy?template=https://github.com/wynmnis/linebot-database/tree/main">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
